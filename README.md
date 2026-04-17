@@ -1,17 +1,13 @@
-# 🚀 My Technical Project Hub
+### 🛠️ Currently Exploring & Learning
+![Digital Electronics](https://img.shields.io/badge/Logic-74LS--Series_(Learning)-blue?style=flat-square)
+![Embedded Systems](https://img.shields.io/badge/Arduino-Exploring-00979D?style=flat-square&logo=arduino)
+![Simulation](https://img.shields.io/badge/CircuitMaker-Newbie-orange?style=flat-square)
 
-Welcome to my digital workshop! This is where I show my skills as a Computer Engineering, it's not much but I am learning new ways to improve myself in the line of work in the Age of Computers
-
----
-
-### 🛠️ Current Tech Stack
-![Digital Electronics](https://img.shields.io/badge/Logic-74LS--Series-blue?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Arduino-Pro-00979D?style=for-the-badge&logo=arduino)
-![Simulation](https://img.shields.io/badge/CircuitMaker-Expert-orange?style=for-the-badge)
-
-> "The difference between a mess and a masterpiece is the documentation."
+> **Current Status:** 🏗️ Under Construction. I'm currently a student of logic and electronics. I'm not taking commissions or professional requests yet—just here to learn, break things, and fix them!
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+### 📚 What I'm working on:
+- [ ] Mastering the 74LS194 Shift Register.
+- [ ] Understanding 555 Timer pulse frequencies.
+- [ ] Documenting my simulation "fails" (because that's where the learning happens).
