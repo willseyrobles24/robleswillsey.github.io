@@ -1,4 +1,4 @@
-# robleswillsey.github.io
+# willseyrobles24.github.io
 ### 🛠️ Currently Exploring & Learning
 ![Digital Electronics](https://img.shields.io/badge/Logic-74LS--Series_(Learning)-blue?style=flat-square)
 ![Embedded Systems](https://img.shields.io/badge/Arduino-Exploring-00979D?style=flat-square&logo=arduino)
