@@ -13,5 +13,5 @@ I am a Computer Engineering student, who's passionate about learning more about 
 - Digital Counter System
 
 ## 📫 Contact
-- Email: youremail@email.com
-- GitHub: https://github.com/yourusername
+- Email: willseyrobles7@gmail.com
+- GitHub: https://github.com/willseyrobles24
