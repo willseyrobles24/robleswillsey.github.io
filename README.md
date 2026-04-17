@@ -1,6 +1,6 @@
 # 🚀 My Technical Project Hub
 
-Welcome to my digital workshop! This is where I document my journey through electronics and logic design.
+Welcome to my digital workshop! This is where I show my skills as a Computer Engineering, it's not much but I am learning new ways to improve myself in the line of work in the Age of Computers
 
 ---
 
